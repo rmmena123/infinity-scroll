@@ -10,7 +10,7 @@ Projeto realizado durante o curso JavaScript Web Projects: 20 Projects to Build 
 
 ## Visualização
 
-https://user-images.githubusercontent.com/68246508/195235407-ed5f4354-6d60-4db7-adcc-2d8436c94354.mp4
+![demo-inifinity-scroll](https://user-images.githubusercontent.com/68246508/195472480-9fd794d8-59cb-4932-82e3-032f9505e4ea.gif)
 
 ## Funcionalidades
 
